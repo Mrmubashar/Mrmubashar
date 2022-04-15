@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MRMubashar
+- 👋 Hi, I’m MR Mubashar
 
 
 <!---
